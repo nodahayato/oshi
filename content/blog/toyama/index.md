@@ -2,7 +2,7 @@
 title: '富山県推し'
 date: 2021-06-18 19:57:00 +0900
 description: 富山県推し
-img: 
+img: nodoguro.jpg
 fig-caption: # Add figcaption (optional)
 tags: [Twitter,都道府県]
 ---
