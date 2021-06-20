@@ -1,6 +1,6 @@
 ---
-title: 'ScanSnap ix100'
-date: 2017-09-12 19:40:00 +0900
+title: 'ScanSnap ix100推し'
+date: 2021-06-18 19:40:00 +0900
 description: なんのためのこのブログを作ったのかの説明
 img: 
 fig-caption: # Add figcaption (optional)

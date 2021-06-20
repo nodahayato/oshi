@@ -1,6 +1,6 @@
 ---
 title: 'このブログについて'
-date: 2017-06-17 00:00:00 +0900
+date: 2021-06-18 19:33:00 +0900
 description: なんのためのこのブログを作ったのかの説明
 img: ./mac.jpg 
 fig-caption: # Add figcaption (optional)
