@@ -1,8 +1,8 @@
 ---
 title: '中村直人「会社訴訟ハンドブック」推し'
 date: 2021-06-18 20:26:00 +0900
-description: '中村直人「会社訴訟ハンドブック」推し
-img: 
+description: 中村直人「会社訴訟ハンドブック」推し
+img: kaisha.jpg
 fig-caption: # Add figcaption (optional)
 tags: [Twitter,法律,会社法,書籍]
 ---
