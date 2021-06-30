@@ -1,6 +1,6 @@
 ---
 title: 'ツマー（配偶者） 推し'
-date: 2021-06-18 20:26:00 +0900
+date: 2021-06-19 09:18:00 +0900
 description: 配偶者 推し
 img: example.jpg
 fig-caption: # Add figcaption (optional)
