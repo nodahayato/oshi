@@ -1,7 +1,7 @@
 import { Link } from 'gatsby'
 import React from 'react'
 
-import Logo from './fbicon.jpg'
+import Logo from '../../../nodalaw/src/components/fbicon.jpg'
 
 const Sidebar = ({ siteMetadata }) => (
   <>
